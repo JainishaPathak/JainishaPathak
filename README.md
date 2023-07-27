@@ -25,7 +25,7 @@ I am currently expanding my knowledge and skills by exploring and delving deeper
 
 - 🌎 I am based in **India**
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Machine Learning & Neural Networks**
 
 - 👯 I’m open to collaborate on **MERN Stack**
 
