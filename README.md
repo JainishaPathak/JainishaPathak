@@ -7,13 +7,14 @@
 
 <p align="left" > 
 <ul>
-<li>I am a newbie with some background in C++, Python,  Java  .</li>
+<li>I am a newbie with some background in C++, Python, Javascript  .</li>
+  <li> I have a strong interest in Data science Machine Learning. I have a good experience in working with various Python modules such as Numpy, Pandas, Matplotlib, Seaborn,Tensorflow and Keras and have utilized these tools in data analysis machine learning projects.
+I am currently expanding my knowledge and skills by exploring and delving deeper into the field of data science and Neural Networks</li>
 <li>I possess a comprehensive understanding of HTML, CSS, and JavaScript and ReactJs and have a solid foundation in web development.
 I have taken my first steps in web development by learning the MERN stack as well a strong understanding in it.
 I have already made some projects and are eager to continue your learning journey.
-I also have a strong interest in Data science.</li>
-<li>I have a good experience in working with various Python modules such as Numpy, Pandas, Matplotlib, and Seaborn,Tensorflow and Keras and have utilized these tools in data analysis machine learning projects.
-I am currently expanding my knowledge and skills by exploring and delving deeper into the field of data science and Neural Networks</li>
+</li>
+
 
 </ul>
 </p>
