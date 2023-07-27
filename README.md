@@ -38,6 +38,8 @@ I have already made some projects and are eager to continue your learning journe
 <p align="left">
 <a href="https://www.leetcode.com/jainisha070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jainisha070" height="30" width="40" /></a>
 </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jainisha-pathak-036430222/)
+
 
 <h3 align="left">Languages and Tools:</h3>
 ## 🚀 Skills and Expertise
