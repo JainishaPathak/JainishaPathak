@@ -26,7 +26,7 @@ I have already made some projects and are eager to continue your learning journe
 
 - 🌎 I am based in **India**
 
-- 🌱 I’m currently learning **Machine Learning & Neural Networks**
+- 🌱 I’m currently learning **Machine Learning & Web development**
 
 - 👯 I’m open to collaborate on **MERN Stack , Data Science **
 
